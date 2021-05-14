@@ -6,3 +6,4 @@
 
 ### [Bike Rental Analysis](https://github.com/jieunlim/ML/blob/main/Bike%20Sharing%20System.pdf)
 
+### [Titanic](https://github.com/jieunlim/Titanic)

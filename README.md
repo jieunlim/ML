@@ -10,7 +10,7 @@
 
 ### [Beautifulsoap](https://github.com/jieunlim/ML/blob/main/BeautifulSoup.ipynb)
 
-### Dog adoption search(https://github.com/jieunlim/ML/blob/main/Dogadoptionsearch.ipynb)
+### [Dog adoption search](https://github.com/jieunlim/ML/blob/main/Dogadoptionsearch.ipynb)
 
-### Feature Engineering(https://github.com/jieunlim/ML/blob/main/FeatureEngineering.ipynb.ipynb)
+### [Feature Engineering](https://github.com/jieunlim/ML/blob/main/FeatureEngineering.ipynb.ipynb)
 

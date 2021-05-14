@@ -8,9 +8,9 @@
 
 ### [Titanic](https://github.com/jieunlim/Titanic)
 
-### Beautifulsoap
+### [Beautifulsoap](https://github.com/jieunlim/ML/blob/main/BeautifulSoup.ipynb)
 
-### Dog adoption search
+### Dog adoption search(https://github.com/jieunlim/ML/blob/main/Dogadoptionsearch.ipynb)
 
-### Feature Engineering
+### Feature Engineering(https://github.com/jieunlim/ML/blob/main/FeatureEngineering.ipynb.ipynb)
 

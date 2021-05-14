@@ -4,5 +4,5 @@
 
 ### Housing Price Analysis
 
-### [Bike Rental Analysis](./Bike Sharing System.pdf)
+### [Bike Rental Analysis](https://github.com/jieunlim/ML/blob/main/Bike%20Sharing%20System.pdf)
 
